@@ -1,6 +1,6 @@
 # Hi there, I'm Intan - aka [Intan Sari Anggraeni](https://www.youtube.com/channel/UC173Y5UwFN2dRuxf7LsgSGQ) 👋
 ## About me:
-- 🔭 I’m currently job seeker
+- 🔭 I’m currently fresh graduate
 - 🌱 I’m currently learning Power Apps and Power BI
 - 🤔 I’m interested all about technology
 - 💬 Ask me about anything
