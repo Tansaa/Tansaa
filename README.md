@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Universitas Pamulang](https://www.unpam.ac.id) | Bachelor of Education | South Tangerang `2017-2021`
- #### 2. [SMK N 2 Kota Tegal](https://www.smkn2tegal.sch.id) | MIPA | Kebumen `2014-2016`
+ #### 2. [SMK N 2 Kota Tegal](https://www.smkn2tegal.sch.id) | Accounting | Tegal `2014-2016`
 
 ## Work Experience:
 #### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `Nov 2019 - Jan 2020`
