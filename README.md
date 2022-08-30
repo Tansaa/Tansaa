@@ -15,7 +15,7 @@
 #### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `Nov 2019 - Jan 2020`
    -  Conduct an online survey, with responses in all regions in Indonesia.
 #### 2. [Badan Pendapatan Daerah Provinsi DKI Jakarta](https://https://bapenda.jakarta.go.id) | Senior Surveyor Atribut | Jakarta `Feb 2022-Jul 2022`
-   - Survei Survey at Regional West Jakarta 
+   - Survey at Regional West Jakarta 
    - Verification Local tax data
    - Input data by using apps
 ---
