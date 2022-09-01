@@ -1,7 +1,7 @@
 # Hi there, I'm Intan - aka [Intan Sari Anggraeni](https://www.youtube.com/channel/UC173Y5UwFN2dRuxf7LsgSGQ) 👋
 ## About me:
 - 🔭 I’m currently fresh graduate
-- 🌱 I’m currently learning Power Apps and Power BI
+- 🌱 I’m currently learning Microsoft 365
 - 🤔 I’m interested all about technology
 - 💬 Ask me about anything
 - 📫 How to reach me: intansaa86@gmail.com
@@ -12,9 +12,9 @@
  #### 2. [SMK N 2 Kota Tegal](https://www.smkn2tegal.sch.id) | Accounting | Tegal `2014-2016`
 
 ## Work Experience:
-#### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `Nov 2019 - Jan 2020`
+#### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `2019 - 2020`
    -  Conduct an online survey, with responses in all regions in Indonesia.
-#### 2. [Badan Pendapatan Daerah Provinsi DKI Jakarta](https://https://bapenda.jakarta.go.id) | Senior Surveyor Atribut | Jakarta `Feb 2022-Jul 2022`
+#### 2. [Badan Pendapatan Daerah Provinsi DKI Jakarta](https://https://bapenda.jakarta.go.id) | Senior Surveyor Atribut | Jakarta `2022`
    - Survey at Regional West Jakarta 
    - Verification Local tax data
    - Input data by using apps
