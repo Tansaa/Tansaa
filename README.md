@@ -1,15 +1,18 @@
 # Hi there, I'm Intan - aka [Intan Sari Anggraeni](https://www.youtube.com/channel/UC173Y5UwFN2dRuxf7LsgSGQ) 👋
 ## About me:
-- 🔭 I’m currently fresh graduate
-- 🌱 I’m currently learning Microsoft 365
+- 🔭 I’m certified BNSP Methodology Level 6
+- 🌱 I’m certified Microsoft 365 Fundamental
 - 🤔 I’m interested all about technology
 - 💬 Ask me about anything
 - 📫 How to reach me: intansaa86@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Pamulang](https://www.unpam.ac.id) | Bachelor of Education | South Tangerang `2017-2021`
- #### 2. [SMK N 2 Kota Tegal](https://www.smkn2tegal.sch.id) | Accounting | Tegal `2014-2016`
+ #### 1. [Universitas Pamulang](https://www.unpam.ac.id) | Bachelor of Education | South Tangerang `2017-2021`
+
+## Organization :
+ #### 1. [Hima PPkn Universitas Pamulang](https://ppkn.unpam.ac.id/) | Division Art and Sport | UNPAM `2019-2020`
+ #### 2. [SMK N 2 Kota Tegal](https://info.schoters.com/) | Division Media Creative | JAKARTA `2018-2020`
 
 ## Work Experience:
 #### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `2019 - 2020`
@@ -18,6 +21,12 @@
    - Survey at Regional West Jakarta 
    - Verification Local tax data
    - Input data by using apps
+#### 2. [Badan Pusat Statistik Provinsi DKI ](https://jakpuskota.bps.go.id/) | Entry Data Regsosek | Jakarta `2022-2023`
+   - Entry data survei Registrasi Sosial Ekonomi 2022
+#### 2. [PT Bhumi Varta Technology](https://bvarta.com/) | Freelancer | Jakarta `2023`
+   - Validation POI (Point of Interest) 
+
+
 ---
 
 ### Languages and Tools:
