@@ -6,9 +6,13 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: intansaa86@gmail.com
 
-## Education:
+## Training And Education:
 
  #### 1. [Universitas Pamulang](https://www.unpam.ac.id) | Bachelor of Education | South Tangerang `2017-2021`
+ #### 2. [Common Purpose](https://commonpurpose.org) | Global Leader Experience in Binus University | Jakarta `2019`
+ #### 3. [Ministry Youth And Sports Indonesia](https://www.kemenpora.go.id/) | Maritime Capacity Training  | Jakarta `2020`
+ #### 4. [BNSP](https://bnsp.go.id/) | Certification of Competency qualification 3 fields of Sub-Training : Training Methodology  | South Tangerang `2020`
+ #### 5. [Microsoft Indonesia Corporation And PT. Maribelajar by Ministry Education, Culture, Research And Technology](https://www.kemdikbud.go.id/) | Independent Study | Jakarta `2021`
 
 ## Organization :
  #### 1. [Hima PPkn Universitas Pamulang](https://ppkn.unpam.ac.id/) | Division Art and Sport | UNPAM `2019-2020`
