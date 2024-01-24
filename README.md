@@ -15,8 +15,8 @@
  #### 5. [Microsoft Indonesia Corporation And PT. Maribelajar by Ministry Education, Culture, Research And Technology](https://www.kemdikbud.go.id/) | Independent Study | Jakarta `2021`
 
 ## Organization :
- #### 1. [Hima PPkn Universitas Pamulang](https://ppkn.unpam.ac.id/) | Division Art and Sport | UNPAM `2019-2020`
- #### 2. [Sahabat Beasiswa Chapter Jakarta](https://info.schoters.com/) | Division Media Creative | JAKARTA `2018-2020`
+ #### 1. [Hima PPkn Universitas Pamulang](https://ppkn.unpam.ac.id/) | Division Art and Sport | Universitas Pamulang, South Tangerang `2019-2020`
+ #### 2. [Sahabat Beasiswa Chapter Jakarta](https://info.schoters.com/) | Division Media Creative | Jakarta `2018-2020`
 
 ## Work Experience:
 #### 1. [PT. Kompas Gramedia Jakarta](https://https://www.kompasgramedia.com/) | Freelancer Interviewer | Jakarta `2019 - 2020`
