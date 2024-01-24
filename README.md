@@ -21,9 +21,11 @@
    - Survey at Regional West Jakarta 
    - Verification Local tax data
    - Input data by using apps
-#### 2. [Badan Pusat Statistik Provinsi DKI ](https://jakpuskota.bps.go.id/) | Entry Data Regsosek | Jakarta `2022-2023`
+#### 3. [Panorama Media ](https://https://panoramamedia.co.id/) | Crew Event MICE | Jakarta `2022-2023`
+   - Handle redeemption ticket
+#### 4. [Badan Pusat Statistik Provinsi DKI ](https://jakpuskota.bps.go.id/) | Entry Data Regsosek | Jakarta `2022-2023`
    - Entry data survei Registrasi Sosial Ekonomi 2022
-#### 2. [PT Bhumi Varta Technology](https://bvarta.com/) | Freelancer | Jakarta `2023`
+#### 5. [PT Bhumi Varta Technology](https://bvarta.com/) | Freelancer | Jakarta `2023`
    - Validation POI (Point of Interest) 
 
 
